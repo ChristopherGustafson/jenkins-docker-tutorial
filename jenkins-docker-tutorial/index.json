@@ -38,6 +38,8 @@
     }
   },
   "environment": {
+    "showDashboard": true,
+    "dashboards": [{"name": "Port 8080", "port": 8080}],
     "uilayout": "editor-terminal"
   },
   "backend": {
